@@ -1,6 +1,6 @@
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/marjanrezaei">
+  <a href="https://www.linkedin.com/in/marjanrezaei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=marjanrezaei&style=flat-square&color=blue" alt=""/>
@@ -18,7 +18,7 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marjanrezaei)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marjanrezaei)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
