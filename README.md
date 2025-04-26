@@ -38,14 +38,8 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei&layout=compact&theme=vision-friendly-dark)](https://github.com/marjanrezaei/github-readme-stats)
 ![MarjanRezaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjanrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<a href="https://github.com/marjanrezaei/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marjanrezaei" />
-</a>
-<a href="https://github.com/marjanrezaei/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marjanrezaei&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
