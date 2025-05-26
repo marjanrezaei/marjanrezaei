@@ -38,5 +38,5 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei)](https://github.com/marjanrezaei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei&layout=compact)](https://github.com/marjanrezaei/github-readme-stats)
 [![MarjanRezaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjanrezaei)](https://github.com/marjanrezaei/github-readme-stats)
