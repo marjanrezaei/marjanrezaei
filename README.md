@@ -39,5 +39,4 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei&layout=compact&theme=vision-friendly-dark)](https://github.com/marjanrezaei/github-readme-stats)
-![Build Status](https://github.com/marjanrezaei/REPO/actions/workflows/WORKFLOW_FILE/badge.svg)
-
+![MarjanRezaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjanrezaei&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
