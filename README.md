@@ -40,3 +40,60 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjanrezaei&layout=compact)](https://github.com/marjanrezaei/github-readme-stats)
 [![MarjanRezaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjanrezaei)](https://github.com/marjanrezaei/github-readme-stats)
+---
+
+## 📄 My Resume
+
+### 💼 Marjan Rezaei – Django Developer
+
+**📍 Location:** Shiraz, Iran  
+**📧 Email:** marjan.rezaei.dev@gmail.com  
+**🐙 GitHub:** [github.com/marjanrezaei](https://github.com/marjanrezaei)  
+**🌐 Portfolio:** [marjanrezaei-store.onrender.com](https://marjanrezaei-store.onrender.com)
+
+---
+
+### 🎯 Objective
+
+Django developer with 2+ years of experience building scalable web applications and RESTful APIs. Passionate about clean code, Docker deployment, and collaborating with international teams. Seeking remote or relocation opportunities in the UAE tech market.
+
+---
+
+### 🛠 Skills
+
+- **Languages:** Python, HTML, CSS, JavaScript (basic)
+- **Frameworks:** Django, Django REST Framework, FastAPI
+- **Databases:** PostgreSQL, SQLite, MySQL
+- **DevOps:** Docker, Git, GitHub Actions
+- **Testing:** Django Test Framework, pytest
+- **Tools:** VS Code, Postman, Linux
+
+---
+
+### 📂 Projects
+
+#### 🛍️ Marjan Store – E-commerce Web App  
+🔗 [Live Demo](https://marjanrezaei-store.onrender.com)  
+🔗 [GitHub Repo](https://github.com/marjanrezaei/marjanrezaei-store)  
+- User authentication, product management, shopping cart  
+- Dockerized deployment on Render  
+- PostgreSQL integration and admin dashboard
+
+#### 📝 Django Avance Blog  
+🔗 [GitHub Repo](https://github.com/marjanrezaei/Django-Avance-Blog)  
+- Blog with categories, comments, and REST API  
+- JWT authentication and responsive design
+
+---
+
+### 🎓 Education
+
+**B.Sc. in Computer Engineering – Shiraz University**  
+Graduation Year: 2023
+
+---
+
+### 🗣 Languages
+
+- Persian: Native  
+- English: Professional working proficiency
