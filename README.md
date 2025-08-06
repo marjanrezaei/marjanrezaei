@@ -47,7 +47,8 @@ I am a Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### 💼 Marjan Rezaei – Django Developer
 
 **📍 Location:** Shiraz, Iran  
-**📧 Email:** marjan.rezaei.dev@gmail.com  
+**📧 Email:**
+  rezaei.marjann@gmail.com  
 **🐙 GitHub:** [github.com/marjanrezaei](https://github.com/marjanrezaei)  
 **🌐 Portfolio:** [marjanrezaei-store.onrender.com](https://marjanrezaei-store.onrender.com)
 
