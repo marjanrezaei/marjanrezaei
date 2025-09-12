@@ -94,9 +94,6 @@ Graduation Year: 2014
 ---
 
 ### 🗣 Languages
-Persian & English
-
-
 
 - Persian: Native  
 - English: Professional working proficiency
