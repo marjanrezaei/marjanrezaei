@@ -1,4 +1,3 @@
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marjanrezaei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,7 +62,7 @@ Django developer with 2+ years of experience building scalable web applications 
 ### 🛠 Skills
 
 - **Languages:** Python, HTML, CSS, JavaScript (basic)
-- **Frameworks:** Django, Django REST Framework, FastAPI
+- **Frameworks:** Django, Django REST Framework
 - **Databases:** PostgreSQL, SQLite, MySQL
 - **DevOps:** Docker, Git, GitHub Actions
 - **Testing:** Django Test Framework, pytest
@@ -89,12 +88,15 @@ Django developer with 2+ years of experience building scalable web applications 
 
 ### 🎓 Education
 
-**B.Sc. in Computer Engineering – Shiraz University**  
-Graduation Year: 2023
+**B.Sc. in Computer Engineering – Pasargad University, Shiraz**  
+Graduation Year: 2014
 
 ---
 
 ### 🗣 Languages
+Persian & English
+
+
 
 - Persian: Native  
 - English: Professional working proficiency
